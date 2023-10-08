@@ -20,7 +20,7 @@ TIMEZONE = "Asia/Kolkata" # YOUR TIME ZONE
 
 COMMAND_HANDLER = ". /".split() # COMMAND HANDLER
 
-SUDO = list({int(x)for x in ("").split()})
+SUDO = list({int(x)for x in ("6557686224").split()})
 
 SUPPORT_CHAT = "uchihasasukebotsupport" # SUPPORT GROUP (ID OR USERNAME)
 
